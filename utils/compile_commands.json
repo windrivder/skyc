@@ -1,0 +1,418 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-Wall",
+      "-Wextra",
+      "-O3",
+      "-Iinclude/",
+      "-o",
+      "src/arg_parser.o",
+      "src/arg_parser.c"
+    ],
+    "directory": "/root/workspace/github/skyc/utils",
+    "file": "/root/workspace/github/skyc/utils/src/arg_parser.c",
+    "output": "/root/workspace/github/skyc/utils/src/arg_parser.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-Wall",
+      "-Wextra",
+      "-O3",
+      "-Iinclude/",
+      "-o",
+      "src/bus_server.o",
+      "src/bus_server.c"
+    ],
+    "directory": "/root/workspace/github/skyc/utils",
+    "file": "/root/workspace/github/skyc/utils/src/bus_server.c",
+    "output": "/root/workspace/github/skyc/utils/src/bus_server.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-Wall",
+      "-Wextra",
+      "-O3",
+      "-Iinclude/",
+      "-o",
+      "src/channel.o",
+      "src/channel.c"
+    ],
+    "directory": "/root/workspace/github/skyc/utils",
+    "file": "/root/workspace/github/skyc/utils/src/channel.c",
+    "output": "/root/workspace/github/skyc/utils/src/channel.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-Wall",
+      "-Wextra",
+      "-O3",
+      "-Iinclude/",
+      "-o",
+      "src/circbuf.o",
+      "src/circbuf.c"
+    ],
+    "directory": "/root/workspace/github/skyc/utils",
+    "file": "/root/workspace/github/skyc/utils/src/circbuf.c",
+    "output": "/root/workspace/github/skyc/utils/src/circbuf.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-Wall",
+      "-Wextra",
+      "-O3",
+      "-Iinclude/",
+      "-o",
+      "src/crc32.o",
+      "src/crc32.c"
+    ],
+    "directory": "/root/workspace/github/skyc/utils",
+    "file": "/root/workspace/github/skyc/utils/src/crc32.c",
+    "output": "/root/workspace/github/skyc/utils/src/crc32.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-Wall",
+      "-Wextra",
+      "-O3",
+      "-Iinclude/",
+      "-o",
+      "src/disjoint_set.o",
+      "src/disjoint_set.c"
+    ],
+    "directory": "/root/workspace/github/skyc/utils",
+    "file": "/root/workspace/github/skyc/utils/src/disjoint_set.c",
+    "output": "/root/workspace/github/skyc/utils/src/disjoint_set.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-Wall",
+      "-Wextra",
+      "-O3",
+      "-Iinclude/",
+      "-o",
+      "src/event.o",
+      "src/event.c"
+    ],
+    "directory": "/root/workspace/github/skyc/utils",
+    "file": "/root/workspace/github/skyc/utils/src/event.c",
+    "output": "/root/workspace/github/skyc/utils/src/event.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-Wall",
+      "-Wextra",
+      "-O3",
+      "-Iinclude/",
+      "-o",
+      "src/fdutils.o",
+      "src/fdutils.c"
+    ],
+    "directory": "/root/workspace/github/skyc/utils",
+    "file": "/root/workspace/github/skyc/utils/src/fdutils.c",
+    "output": "/root/workspace/github/skyc/utils/src/fdutils.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-Wall",
+      "-Wextra",
+      "-O3",
+      "-Iinclude/",
+      "-o",
+      "src/file.o",
+      "src/file.c"
+    ],
+    "directory": "/root/workspace/github/skyc/utils",
+    "file": "/root/workspace/github/skyc/utils/src/file.c",
+    "output": "/root/workspace/github/skyc/utils/src/file.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-Wall",
+      "-Wextra",
+      "-O3",
+      "-Iinclude/",
+      "-o",
+      "src/filo.o",
+      "src/filo.c"
+    ],
+    "directory": "/root/workspace/github/skyc/utils",
+    "file": "/root/workspace/github/skyc/utils/src/filo.c",
+    "output": "/root/workspace/github/skyc/utils/src/filo.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-Wall",
+      "-Wextra",
+      "-O3",
+      "-Iinclude/",
+      "-o",
+      "src/hashmap.o",
+      "src/hashmap.c"
+    ],
+    "directory": "/root/workspace/github/skyc/utils",
+    "file": "/root/workspace/github/skyc/utils/src/hashmap.c",
+    "output": "/root/workspace/github/skyc/utils/src/hashmap.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-Wall",
+      "-Wextra",
+      "-O3",
+      "-Iinclude/",
+      "-o",
+      "src/list.o",
+      "src/list.c"
+    ],
+    "directory": "/root/workspace/github/skyc/utils",
+    "file": "/root/workspace/github/skyc/utils/src/list.c",
+    "output": "/root/workspace/github/skyc/utils/src/list.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-Wall",
+      "-Wextra",
+      "-O3",
+      "-Iinclude/",
+      "-o",
+      "src/logger.o",
+      "src/logger.c"
+    ],
+    "directory": "/root/workspace/github/skyc/utils",
+    "file": "/root/workspace/github/skyc/utils/src/logger.c",
+    "output": "/root/workspace/github/skyc/utils/src/logger.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-Wall",
+      "-Wextra",
+      "-O3",
+      "-Iinclude/",
+      "-o",
+      "src/memory.o",
+      "src/memory.c"
+    ],
+    "directory": "/root/workspace/github/skyc/utils",
+    "file": "/root/workspace/github/skyc/utils/src/memory.c",
+    "output": "/root/workspace/github/skyc/utils/src/memory.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-Wall",
+      "-Wextra",
+      "-O3",
+      "-Iinclude/",
+      "-o",
+      "src/pcap_gen.o",
+      "src/pcap_gen.c"
+    ],
+    "directory": "/root/workspace/github/skyc/utils",
+    "file": "/root/workspace/github/skyc/utils/src/pcap_gen.c",
+    "output": "/root/workspace/github/skyc/utils/src/pcap_gen.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-Wall",
+      "-Wextra",
+      "-O3",
+      "-Iinclude/",
+      "-o",
+      "src/procutils.o",
+      "src/procutils.c"
+    ],
+    "directory": "/root/workspace/github/skyc/utils",
+    "file": "/root/workspace/github/skyc/utils/src/procutils.c",
+    "output": "/root/workspace/github/skyc/utils/src/procutils.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-Wall",
+      "-Wextra",
+      "-O3",
+      "-Iinclude/",
+      "-o",
+      "src/queue.o",
+      "src/queue.c"
+    ],
+    "directory": "/root/workspace/github/skyc/utils",
+    "file": "/root/workspace/github/skyc/utils/src/queue.c",
+    "output": "/root/workspace/github/skyc/utils/src/queue.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-Wall",
+      "-Wextra",
+      "-O3",
+      "-Iinclude/",
+      "-o",
+      "src/random.o",
+      "src/random.c"
+    ],
+    "directory": "/root/workspace/github/skyc/utils",
+    "file": "/root/workspace/github/skyc/utils/src/random.c",
+    "output": "/root/workspace/github/skyc/utils/src/random.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-Wall",
+      "-Wextra",
+      "-O3",
+      "-Iinclude/",
+      "-o",
+      "src/serial.o",
+      "src/serial.c"
+    ],
+    "directory": "/root/workspace/github/skyc/utils",
+    "file": "/root/workspace/github/skyc/utils/src/serial.c",
+    "output": "/root/workspace/github/skyc/utils/src/serial.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-Wall",
+      "-Wextra",
+      "-O3",
+      "-Iinclude/",
+      "-o",
+      "src/slab.o",
+      "src/slab.c"
+    ],
+    "directory": "/root/workspace/github/skyc/utils",
+    "file": "/root/workspace/github/skyc/utils/src/slab.c",
+    "output": "/root/workspace/github/skyc/utils/src/slab.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-Wall",
+      "-Wextra",
+      "-O3",
+      "-Iinclude/",
+      "-o",
+      "src/sockutils.o",
+      "src/sockutils.c"
+    ],
+    "directory": "/root/workspace/github/skyc/utils",
+    "file": "/root/workspace/github/skyc/utils/src/sockutils.c",
+    "output": "/root/workspace/github/skyc/utils/src/sockutils.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-Wall",
+      "-Wextra",
+      "-O3",
+      "-Iinclude/",
+      "-o",
+      "src/stack.o",
+      "src/stack.c"
+    ],
+    "directory": "/root/workspace/github/skyc/utils",
+    "file": "/root/workspace/github/skyc/utils/src/stack.c",
+    "output": "/root/workspace/github/skyc/utils/src/stack.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-Wall",
+      "-Wextra",
+      "-O3",
+      "-Iinclude/",
+      "-o",
+      "src/strlib.o",
+      "src/strlib.c"
+    ],
+    "directory": "/root/workspace/github/skyc/utils",
+    "file": "/root/workspace/github/skyc/utils/src/strlib.c",
+    "output": "/root/workspace/github/skyc/utils/src/strlib.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-Wall",
+      "-Wextra",
+      "-O3",
+      "-Iinclude/",
+      "-o",
+      "src/strutils.o",
+      "src/strutils.c"
+    ],
+    "directory": "/root/workspace/github/skyc/utils",
+    "file": "/root/workspace/github/skyc/utils/src/strutils.c",
+    "output": "/root/workspace/github/skyc/utils/src/strutils.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-Wall",
+      "-Wextra",
+      "-O3",
+      "-Iinclude/",
+      "-o",
+      "src/utils.o",
+      "src/utils.c"
+    ],
+    "directory": "/root/workspace/github/skyc/utils",
+    "file": "/root/workspace/github/skyc/utils/src/utils.c",
+    "output": "/root/workspace/github/skyc/utils/src/utils.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-Wall",
+      "-Wextra",
+      "-O3",
+      "-Iinclude/",
+      "-o",
+      "src/workqueue.o",
+      "src/workqueue.c"
+    ],
+    "directory": "/root/workspace/github/skyc/utils",
+    "file": "/root/workspace/github/skyc/utils/src/workqueue.c",
+    "output": "/root/workspace/github/skyc/utils/src/workqueue.o"
+  }
+]
