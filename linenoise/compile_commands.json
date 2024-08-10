@@ -1,0 +1,34 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-Wall",
+      "-W",
+      "-Os",
+      "-g",
+      "-o",
+      "linenoise_example",
+      "linenoise.c"
+    ],
+    "directory": "/Users/qihoo/workspace/github/linenoise",
+    "file": "/Users/qihoo/workspace/github/linenoise/linenoise.c",
+    "output": "/Users/qihoo/workspace/github/linenoise/linenoise_example"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-Wall",
+      "-W",
+      "-Os",
+      "-g",
+      "-o",
+      "linenoise_example",
+      "example.c"
+    ],
+    "directory": "/Users/qihoo/workspace/github/linenoise",
+    "file": "/Users/qihoo/workspace/github/linenoise/example.c",
+    "output": "/Users/qihoo/workspace/github/linenoise/linenoise_example"
+  }
+]
